@@ -1,7 +1,6 @@
-#Git Assignment Project 
+# Git Assignment Project 
 
--Name: Aisling Power 
--Student number: 
+*Name: Aisling Power 
 
 ## Introduction 
 
