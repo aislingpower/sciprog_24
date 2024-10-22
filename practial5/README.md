@@ -1,4 +1,4 @@
-# Practial 2
+# Practial 5
 
 The folder contains Practial 5 codes.
 Compile the codes and then execute.
